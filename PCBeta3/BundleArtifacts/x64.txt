@@ -1,0 +1,2 @@
+MainPackage=D:\VisualStudioProjects\PCBeta3\PCBeta3\PCBeta3\bin\x64\Debug\PCBeta3_1.0.1.0_x64_Debug.appx
+ResourcePack=D:\VisualStudioProjects\PCBeta3\PCBeta3\PCBeta3\bin\x64\Debug\PCBeta3_1.0.1.0_scale-100.appx

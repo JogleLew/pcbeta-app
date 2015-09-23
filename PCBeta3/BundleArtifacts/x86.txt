@@ -1,0 +1,1 @@
+MainPackage=D:\VisualStudioProjects\PCBeta3\PCBeta3\PCBeta3\bin\x86\Debug\PCBeta3_1.0.1.0_x86_Debug.appx
